@@ -1,16 +1,16 @@
-*Psst  looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
 ---
 
-# svelte app
+# svelte nursing tracker
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+This is an app I'm building to learn Svelte [Svelte](https://svelte.dev), and to help my wife!
 
+
+## Cloning this project
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
+npx degit reductist/nursing_tracker
+cd nursing_tracker
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
@@ -21,7 +21,7 @@ cd svelte-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd nursing_tracker
 npm install
 ```
 
